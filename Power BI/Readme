@@ -1,0 +1,75 @@
+# 📊 Global Superstore Power BI Dashboard
+
+This Power BI project analyzes global retail sales performance using the Global Superstore dataset. The dashboard provides insights into regional sales trends, profit distribution, customer segmentation, and shipping efficiency.
+
+---
+
+## 📌 Objective
+
+To create an interactive business intelligence dashboard that enables:
+- Regional and segment-wise sales performance analysis
+- Profitability tracking across categories
+- Top-performing products and customers
+- Shipment mode analysis
+
+---
+
+## 📁 Files Included
+
+- `Global Superstore.pbix` – Main Power BI project file
+- `sample_data.csv` – (Optional) CSV version of the dataset used
+- `screenshots/` – Dashboard visuals (optional)
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](screenshots/dashboard_view.png)
+
+> *(Include a screenshot of your dashboard here — optional but highly recommended)*
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Power BI Desktop**
+- **Data Source**: Global Superstore Dataset
+- **Data Modeling**: Power Query, Relationships, DAX
+- **Visuals Used**:
+  - Bar & Column Charts
+  - Line Charts
+  - Maps
+  - Slicers and Filters
+  - KPI Cards
+
+---
+
+## 🔍 Key Insights
+
+- Western Europe and North America generate the highest profits.
+- Technology segment leads in both sales and profit.
+- Standard class shipments dominate volume but are slower.
+- Top 10 customers contribute to over 25% of revenue.
+
+---
+
+## 📥 How to Use
+
+1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop).
+2. Clone this repository or download the `.pbix` file.
+3. Open `Global Superstore.pbix` in Power BI Desktop.
+4. Explore the dashboard and interact with filters and visuals.
+
+---
+
+## 📌 Notes
+
+- Data used is for educational purposes only.
+- You may need to refresh the dataset after opening, depending on Power BI version.
+
+---
+
+## 👨‍💻 Author
+
+Amogh Nath  
+[LinkedIn](#) | [GitHub](#)
