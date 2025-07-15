@@ -1,0 +1,83 @@
+# 📊 Tableau Retail Sales Dashboard
+
+This Tableau project visualizes and analyzes retail transaction data, helping uncover insights about sales performance, profit centers, and customer behavior.
+
+---
+
+## 📌 Objective
+
+To build a dynamic Tableau dashboard that empowers retail business stakeholders to:
+- Track regional and category-wise performance
+- Identify high-value transactions and profit trends
+- Evaluate customer and shipping efficiency
+- Make data-driven decisions via interactive visuals
+
+---
+
+## 📁 Files Included
+
+- `PROJECT.twb` – Tableau Workbook (developed in Tableau Desktop)
+- `sample_data.csv` – (Optional) Sample dataset (if sharable)
+- `screenshots/` – Dashboard visuals (preview)
+
+---
+
+## 📸 Dashboard Preview
+
+> *(Insert a screenshot of your Tableau dashboard in `screenshots/` folder)*
+
+![Dashboard Preview](screenshots/dashboard_view.png)
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Tableau Desktop**
+- **Data Source**: Global Superstore / Custom Retail Dataset
+- **Techniques Used**:
+  - Calculated fields (e.g., High-Value Transactions)
+  - Parameters and Filters
+  - Trend Lines and Reference Bands
+  - Custom Tooltips
+  - Data Blending / Joins
+
+---
+
+## 🔍 Key Insights
+
+- Top 20% of customers contribute over 60% of total revenue.
+- Technology and Office Supplies drive high profit margins.
+- Discounts don’t always lead to higher sales.
+- Standard Class shipments account for maximum orders, but at lower profitability.
+
+---
+
+## 💻 How to Use
+
+1. Download [Tableau Desktop](https://www.tableau.com/products/desktop) (free trial available)
+2. Clone this repo or download the `.twb` file
+3. Open `PROJECT.twb` in Tableau
+4. If dataset is external, you may need to:
+   - Relink the data source (`sample_data.csv`)
+   - Refresh extracts (if used)
+
+---
+
+## 📥 Sample Data (Optional)
+
+> If you used a proprietary or local file (like an Excel or CSV), include a dummy version or mention this:
+
+> *Note: Dataset is confidential and not publicly available. A dummy file with the same schema is provided for structure.*
+
+---
+
+## 👨‍💻 Author
+
+Amogh Nath  
+[LinkedIn](#) | [GitHub](#)
+
+---
+
+## 🏷️ Tags
+
+`Tableau` `Retail Analytics` `Data Visualization` `Dashboard Design` `High-Value Transactions`
