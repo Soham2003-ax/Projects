@@ -1,1 +1,40 @@
-read
+# 📊 Financial Analysis Project - AWP
+
+This project analyzes retail financial data to uncover key insights into profitability, sales distribution, and regional performance. It uses Python for data cleaning, visualization, and exploratory data analysis.
+
+## 🗂️ Dataset
+
+- The dataset is loaded from `Financials.csv`.
+- Key columns include: `Units Sold`, `Sale Price`, `Profit`, `COGS`, `Segment`, `Country`, etc.
+- Data cleaning includes removal of currency symbols, conversion to float, and handling of missing values.
+
+## 📈 Visualizations
+
+The following plots are generated to explore and present insights:
+
+1. **Total Profit by Segment and Country** – Bar chart comparing profitability across segments and regions.
+2. **Top 5 Countries by Revenue** – Pie chart showing the countries with the highest sales.
+3. **Sales vs. Profit Scatter Plot** – Highlights segment-wise relationship between sales and profit.
+4. **Profit Distribution** – KDE plot for visualizing the distribution of profit.
+5. **Sales Distribution** – Histogram with KDE to analyze sales spread.
+6. **Correlation Heatmap** – Shows interdependence among key financial metrics.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter / Google Colab
+
+## 📌 How to Run
+
+1. Upload `Financials.csv` to your working directory.
+2. Run the Python script `final_project_awp.py`.
+3. All visual outputs will be displayed inline using `matplotlib` and `seaborn`.
+
+## 📚 Objective
+
+To provide meaningful business insights through EDA and support decision-making in retail operations using financial KPIs.
+
+---
